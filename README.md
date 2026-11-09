@@ -6,6 +6,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Link check](https://github.com/XploraHub/awesome-mining/actions/workflows/links.yml/badge.svg)](https://github.com/XploraHub/awesome-mining/actions/workflows/links.yml)
+[![Contributors](https://img.shields.io/github/contributors/XploraHub/awesome-mining)](https://github.com/XploraHub/awesome-mining/graphs/contributors)
 [![Last commit](https://img.shields.io/github/last-commit/XploraHub/awesome-mining)](https://github.com/XploraHub/awesome-mining/commits/main)
 [![Licence: CC0](https://img.shields.io/badge/licence-CC0--1.0-green)](LICENSE)
 
@@ -114,7 +115,6 @@ Also relevant here: xslope and OGR Slip2D (seepage and slope stability of embank
 
 - [Awesome Mineral Exploration](https://github.com/XploraHub/awesome-mineral-exploration) - Open-source software for mineral exploration, including GIS, drones, point clouds and geostatistics.
 - [Geoscience data portals](https://github.com/XploraHub/geoscience-data-portals) - Government geoscience data portals, with what each holds and its licence.
-- [Awesome Geotechnics](https://github.com/FrancescaBurali/awesome-geotechnics) - Geotechnical engineering resources.
 - [Awesome Mining Data](https://github.com/Arpeggeo/awesome-mining-data) - Open datasets for the mining industry.
 - [Python Libraries for Engineers](https://github.com/joreilly86/Python-Libraries-for-Engineers) - Python libraries for civil, structural and geotechnical engineering.
 
