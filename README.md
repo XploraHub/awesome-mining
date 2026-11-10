@@ -72,6 +72,7 @@ Every tool here is open source, has a licence and has been updated in the last 1
 - [MPM-Geomechanics](https://github.com/fabricix/MPM-Geomechanics) - <img src="assets/icons/cplusplus.svg" alt="C++" height="16"> Material point method code for large-deformation failure of soil and rock, with a mine slope failure example. MIT.
 - [Yade](https://gitlab.com/yade-dev/trunk) - <img src="assets/icons/cplusplus.svg" alt="C++" height="16"> Discrete element framework used for rock fracture, jointed rock masses and granular flow, scripted in Python. GPL-2.0.
 - [geoeq](https://github.com/geoeq/geoeq) - <img src="assets/icons/python.svg" alt="Python" height="16"> Geotechnical functions for SPT and CPT interpretation, liquefaction, bearing capacity and slope stability, useful for tailings and foundation checks. Apache-2.0.
+- [GeoModel3D](https://github.com/kilickursat/GeoModel3D) - <img src="assets/icons/typescript.svg" alt="TypeScript" height="16"> Browser application that builds layered 3D ground models from borehole logs and cone penetration tests, with sections along an alignment and effective stress profiles. Apache-2.0.
 
 ## Mine water and hydrogeology
 
