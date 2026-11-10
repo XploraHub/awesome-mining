@@ -66,7 +66,7 @@ Every tool here is open source, has a licence and has been updated in the last 1
 ## Geotechnics and rock mechanics
 
 - [OGR Slip2D](https://github.com/samuelsl27/OGR-Slip2D) - <img src="assets/icons/python.svg" alt="Python" height="16"> Two-dimensional slope stability by seven limit-equilibrium methods, with finite-element seepage and probabilistic analysis. AGPL-3.0.
-- [xslope](https://github.com/njones61/xslope) - <img src="assets/icons/python.svg" alt="Python" height="16"> Slope stability and finite-element seepage analysis for embankments, cuts and dams. Apache-2.0.
+- [xslope](https://github.com/njones61/xslope) - <img src="assets/icons/python.svg" alt="Python" height="16"> Limit-equilibrium and finite-element slope stability, including jointed rock slopes, with finite-element seepage for embankments and dams. Apache-2.0.
 - [PySlope](https://github.com/JesseBonanno/PySlope) - <img src="assets/icons/python.svg" alt="Python" height="16"> Slope stability by Bishop's method of slices, with plotting and search for the critical slip surface. MIT.
 - [DSEPy](https://github.com/adririquelme/DSEPy) - <img src="assets/icons/python.svg" alt="Python" height="16"> Python successor to the MATLAB tool DSE, for extracting, viewing and classifying rock mass discontinuities from point clouds. GPL-3.0.
 - [MPM-Geomechanics](https://github.com/fabricix/MPM-Geomechanics) - <img src="assets/icons/cplusplus.svg" alt="C++" height="16"> Material point method code for large-deformation failure of soil and rock, with a mine slope failure example. MIT.
