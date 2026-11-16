@@ -12,7 +12,7 @@
 
 A curated list of open-source software for mining (the physical kind): mine planning, drill and blast, haulage, ventilation, geotechnics, mine water, processing, tailings and closure. For finding the deposit in the first place, see the sister list, Awesome Mineral Exploration, under Related lists; tools used in both, such as QGIS, CloudCompare, OpenDroneMap and the geostatistics libraries, are listed there.
 
-Every tool here is open source, has a licence and has been updated in the last 18 months, except those under No longer maintained, at the end. Icons show the main language; the licence follows each description. Curated by [XploraHub](https://xplorahub.com), open ground for exploration & mining technology.
+Every tool here is open source, has a licence and has been updated in the last 18 months, except those under No longer maintained, at the end. Icons show the main language; the licence follows each description. Curated by [XploraHub](https://xplorahub.com), open ground for exploration & mining technology. To search the list from Claude or ChatGPT, [connect XploraHub](https://xplorahub.com/connect?ref=github-awesome-mining).
 
 ## Contents
 
