@@ -50,6 +50,7 @@ Every tool here is open source, has a licence and has been updated in the last 1
 - [EXPLOCAL](https://github.com/EnriquePH/EXPLOCAL) - <img src="assets/icons/cplusplus.svg" alt="C++" height="16"> Calculates the theoretical properties of commercial explosives, such as detonation velocity, energy and gas volume, from their composition. MIT.
 - [NavDrill Quality](https://github.com/KennethKwabenaKenney/NavDrillQuality) - <img src="assets/icons/python.svg" alt="Python" height="16"> Desktop tool that converts underground drill navigation logs into mine coordinates and reports as-drilled hole accuracy for drill and blast QA/QC. MIT.
 - [SlopeForge](https://github.com/tinuvael/SlopeForge) - <img src="assets/icons/python.svg" alt="Python" height="16"> Desktop application for tracking production and contour blasts, final-wall assessment and blast quality in open pits. GPL-3.0.
+- [BlastingPy](https://github.com/Miqueas7/BlastingPy) - <img src="assets/icons/python.svg" alt="Python" height="16"> Python library with a C++ core for blast vibration attenuation laws, maximum charge per delay, airblast, flyrock and near-field vibration, with checks against published vibration criteria. MIT.
 
 ## Haulage, fleet and operations
 
